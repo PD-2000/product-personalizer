@@ -4,12 +4,12 @@ import Container from './components/Container/Container';
 
 const App = () => {
 
-  return (
-    <Container>
-      <Header />
-      <Products />
-    </Container>
-  );
-}
+	return (
+		<Container>
+			<Header />
+			<Products />
+		</Container>
+	);
+};
 
 export default App;
